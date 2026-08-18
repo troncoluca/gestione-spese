@@ -1,3 +1,4 @@
+# Versione con backup su GitHub
 import tkinter as tk
 
 def carica_spese():
